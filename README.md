@@ -4,7 +4,7 @@
 
 ### Description
 
-This algorithm finds the bomb through two kind of behaviors. The first one is investigative and it
+This algorithm finds the bomb through two kinds of behaviors. The first one is investigative and it
 is actuated when the algorithms has already some information on where the bombs might be,
 therefore it investigates those squares until the bomb is found. The second behavior is
 explorative, and it is actuated when the algorithm has absolutely no clue of where the bombs
